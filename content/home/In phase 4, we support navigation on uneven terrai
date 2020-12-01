@@ -1,0 +1,11 @@
+In phase 4, we support navigation on uneven terrain.
+
+
+Initially, the bot is placed on the terrain. By giving commands, the bot could roll on the uneven terrain.
+
+
+The User could also place obstacles to the mouse position by pressing capital B. 
+
+Then the user can adjust the radius of the obsticle pressing T or Y.  
+
+After the user placed all obstacles, she could press "D" to find a path to the mouse location if such path exist.
